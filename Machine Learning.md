@@ -12,4 +12,6 @@ Machine learning flips the script. We want the program itself to learn the rules
 
 These algorithms are able to *learn*. Their performance gets better and better with each iteration, as it uncovers more hidden trends in the data.
 
+If image below is not properly visible, enable dark mode.
+
 ![Machine%20Learning%20834d8439db7f47bd9ffb5704806f9cdf/timeline2_Updated_1-01.svg](Machine%20Learning%20834d8439db7f47bd9ffb5704806f9cdf/timeline2_Updated_1-01.svg)
